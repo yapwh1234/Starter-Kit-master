@@ -49,4 +49,5 @@ List down the contribution of each group members.
 3. Set up trail and reset to a game object.
 
 ## Problems Encountered & Solutions
-
+1. We are not quite good about the basic of c++ programming and we watch alot of tutorial videos about the commands of c++ programming.
+2. We cannot customise the gameboard size and we just try as much as we can then its success.
