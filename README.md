@@ -2,7 +2,8 @@
 
 Please introduce the game here.
 
-![Alt text](file:///C:/Users/User/Downloads/signature_screenshot.svg_adobe_express.svg "a title")
+![alien-path-scr007](https://user-images.githubusercontent.com/124160520/219954744-90dffc41-c712-46c8-8494-4332b11e510c.jpg)
+
 
 
 [Video Demo](https://youtu.be/q4cThVC8HIk)
